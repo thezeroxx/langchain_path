@@ -1,2 +1,2 @@
-# langchain_path
-this repository is for you to track my study
+# LangChain Journey: From LLM Basics to AI Engineering
+This repository tracks my hands-on progress in mastering LangChain to build robust, production-ready AI systems. I am documenting the evolution of my code—from basic prompts to complex chains—as I prepare to integrate LLM logic with Computer Vision tasks. Each commit represents a specific milestone in understanding framework architecture and engineering workflows. My goal is to leverage these tools for advanced, multi-modal engineering solutions.
