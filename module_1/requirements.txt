@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain-openai
+langchain-google-genai
+langgraph
+python-dotenv
+pydantic
+tavily-python
+pillow
+typing-extensions
